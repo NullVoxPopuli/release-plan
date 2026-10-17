@@ -2,6 +2,17 @@
 
 ## Release (2026-10-17)
 
+* @nullvoxpopuli/release-plan 0.22.1 (patch)
+
+#### :memo: Documentation
+* `@nullvoxpopuli/release-plan`
+  * [#17](https://github.com/NullVoxPopuli/release-plan/pull/17) Rewrap the fork's changelog docs to pass nollm ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 1
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
+
+## Release (2026-10-17)
+
 * @nullvoxpopuli/release-plan 0.22.0 (minor)
 
 #### :rocket: Enhancement

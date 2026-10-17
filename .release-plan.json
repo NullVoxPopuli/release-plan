@@ -1,15 +1,11 @@
 {
   "solution": {
     "@nullvoxpopuli/release-plan": {
-      "impact": "minor",
-      "oldVersion": "0.21.0",
-      "newVersion": "0.22.0",
+      "impact": "patch",
+      "oldVersion": "0.22.0",
+      "newVersion": "0.22.1",
       "tagName": "latest",
       "constraints": [
-        {
-          "impact": "minor",
-          "reason": "Appears in changelog section :rocket: Enhancement"
-        },
         {
           "impact": "patch",
           "reason": "Appears in changelog section :memo: Documentation"
@@ -18,5 +14,5 @@
       "pkgJSONPath": "./package.json"
     }
   },
-  "description": "## Release (2026-10-17)\n\n* @nullvoxpopuli/release-plan 0.22.0 (minor)\n\n#### :rocket: Enhancement\n* `@nullvoxpopuli/release-plan`\n  * [#16](https://github.com/NullVoxPopuli/release-plan/pull/16) Read repo options from a release-plan config file ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n  * [#15](https://github.com/NullVoxPopuli/release-plan/pull/15) Render one section for labels that share a heading ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n  * [#13](https://github.com/NullVoxPopuli/release-plan/pull/13) Add a files option to choose which files of a package count ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n\n#### :memo: Documentation\n* `@nullvoxpopuli/release-plan`\n  * [#12](https://github.com/NullVoxPopuli/release-plan/pull/12) Describe renameCommitters as renaming a PR author ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n\n#### Committers: 1\n- [@NullVoxPopuli](https://github.com/NullVoxPopuli)\n"
+  "description": "## Release (2026-10-17)\n\n* @nullvoxpopuli/release-plan 0.22.1 (patch)\n\n#### :memo: Documentation\n* `@nullvoxpopuli/release-plan`\n  * [#17](https://github.com/NullVoxPopuli/release-plan/pull/17) Rewrap the fork's changelog docs to pass nollm ([@NullVoxPopuli](https://github.com/NullVoxPopuli))\n\n#### Committers: 1\n- [@NullVoxPopuli](https://github.com/NullVoxPopuli)\n"
 }
